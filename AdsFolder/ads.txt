@@ -1,2 +1,2 @@
-ad_1
-ad_2
+ad_1.jpg
+ad_2.jpg
